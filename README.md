@@ -1,1 +1,1 @@
-https://github.com/Dmitry-Petrov/cssBayan/cssBayan/index.htmlgit
+https://github.com/Dmitry-Petrov/cssBayan/cssBayan/index.html
